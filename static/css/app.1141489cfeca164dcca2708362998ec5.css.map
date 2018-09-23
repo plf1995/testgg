@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.1141489cfeca164dcca2708362998ec5.css"],"names":[],"mappings":"AACA,MACE,YAAa,AACb,YAAc,CACf,AAED,sBACE,UAAW,AACX,cAAgB,CACjB","file":"app.1141489cfeca164dcca2708362998ec5.css","sourcesContent":["\n.logo{\n  width: 100px;\n  height: 100px;\n}\n\n.msg[data-v-1a895827]{\n  color: red;\n  font-size: 50px;\n}\n"]}
